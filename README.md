@@ -1,4 +1,4 @@
-# Data Analysis Project 
+# SecureBank Fraud Detection Project 
 
 ## Overview
 This is a completed data analysis project focused on extracting insights from real-world datasets using data analytics tools.
