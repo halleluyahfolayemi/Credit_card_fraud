@@ -21,7 +21,8 @@ understanding normal transaction behaviors.
 - Power BI and SQL
 - Microsoft Word and PowerPoint
 
-##Summary Statement on Fraud Activity##
+# Summary Statement on Fraud Activity
+
 Fraud activity within SecureBank Nigeria's dataset is characterized by a low but specific incidence rate (0.00031%). The primary threat vector is domestic online transactions conducted via desktop computers. The prevalence of decline codes 6 and 12 indicates that fraudsters are likely attempting to use invalid or stolen card data through trial and error. Contrary to standard expectations, local transactions pose a higher verified risk than international ones, suggesting a need to tighten security protocols for domestic web based payments.
 
 
