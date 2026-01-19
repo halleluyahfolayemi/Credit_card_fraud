@@ -1,7 +1,7 @@
-# Data Analysis Project (Ongoing)
+# Data Analysis Project 
 
 ## Overview
-This is an ongoing data analysis capstone project focused on extracting insights from real-world datasets using data analytics tools.
+This is a completed data analysis capstone project focused on extracting insights from real-world datasets using data analytics tools.
 
 ## Problem statement
 SecureBank Nigeria has noticed unusual patterns in credit card transactions and wants to analyze 
