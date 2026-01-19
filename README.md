@@ -17,12 +17,12 @@ understanding normal transaction behaviors.
 - Reporting findings
 
 ## Tools to be used
-- Python
 - Excel
-- Power BI and SQL 
+- Power BI and SQL
+- Microsoft Word and PowerPoint
 
 ## Project Status
-🚧 In Progress — Started on: (today’s date)
+🚧 Completed on 15th January, 2026
 
 ## Author
-Folayemi Halleluyah Idowu 
+Folayemi Halleluyah Idowu et al
