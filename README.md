@@ -30,4 +30,4 @@ Fraud activity within SecureBank Nigeria's dataset is characterized by a low but
 🚧 Completed on 15th January, 2026
 
 ## Author
-Folayemi Halleluyah Idowu et al
+Halleluyah Idowu Folayemi et al
